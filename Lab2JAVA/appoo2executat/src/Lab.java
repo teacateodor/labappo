@@ -53,7 +53,7 @@ public class Lab {
         {
             set.add((character) queue.element());
         }
-        System.out.println("\nSetul combinat cu stiva:\n\t" + set);
+        System.out.println("\nSetul combinat cu coada:\n\t" + set);
 
         int count = 0;
         for(character ch : set)
